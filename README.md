@@ -4,9 +4,9 @@ Este repositorio contiene ejercicios de nivel 1 centrados en la **Programación 
 
 ---
 
-## 📚 Ejercicios incluidos
+## 📚 Nivel 1
 
-### ✅ Ejercicio 1: `Animal` con comportamiento diferenciado
+### ✅ Ejercicio 1
 
 Crea una clase base `Animal` con:
 
@@ -20,6 +20,15 @@ Luego se definen dos subclases:
 - `Gato`: implementa el método `habla()` y muestra un mensaje como: `"¡Mío! Soy [nombre]"`
 
 > 💡 Este ejercicio refuerza los conceptos de herencia y polimorfismo, permitiendo que subclases redefinan comportamientos de una clase base.
+
+---
+
+## 📚 Nivel 2
+
+### Ejercicio 1
+
+Escribe un programa que defina una clase Shape con un constructor que reciba como parámetros el ancho y alto.
+Define dos subclases; Triángulo y Rectángulo que hereden de Shape y que calculen respectivamente el área de la forma area().
 
 ---
 

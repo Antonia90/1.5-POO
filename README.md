@@ -32,6 +32,14 @@ Define dos subclases; Triángulo y Rectángulo que hereden de Shape y que calcul
 
 ---
 
+## 📚 Nivel 3
+
+### Ejercicio
+
+Siguiendo el ejercicio anterior, imagina cómo ampliarías la estructura que has creado para representar un Círculo y su correspondiente cálculo de área.
+
+---
+
 ## 🛠 Requisitos
 
 - PHP 7.4 o superior  

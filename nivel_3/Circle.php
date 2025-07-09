@@ -1,5 +1,6 @@
 <?php
-class Circle extends Shape
+require_once 'Shape.php';
+class Circle implements Shape
 {
 
     public function __construct(public int|float $radio) {}

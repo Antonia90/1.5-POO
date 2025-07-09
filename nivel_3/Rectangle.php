@@ -1,6 +1,6 @@
 <?php
-
-class Rectangle extends Shape
+require_once 'Shape.php';
+class Rectangle implements Shape
 {
 
     public function __construct(public int|float $height, public int|float $width) {}

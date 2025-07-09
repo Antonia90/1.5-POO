@@ -1,6 +1,6 @@
 <?php
 
-abstract class Shape
+interface Shape
 {
-    abstract public function calculateArea(): float;
+    public function calculateArea(): float;
 }
